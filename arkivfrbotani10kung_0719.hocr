@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani10kung_0719.png"; bbox 0 0 1941 3255; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 127 129 1683 205">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 127 129 1683 205">
+     <span class='ocr_line' id='line_1_1' title="bbox 127 129 1683 205; baseline -0.022 -4"><span class='ocrx_word' id='word_1_1' title='bbox 127 166 380 205; x_wconf 79' lang='lat' dir='ltr'><strong>ALMQUIST,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 413 156 814 194; x_wconf 66' lang='lat' dir='ltr'>SKANDINAWSKA</span> <span class='ocrx_word' id='word_1_3' title='bbox 846 152 1041 184; x_wconf 78' lang='lat' dir='ltr'>FORMER</span> <span class='ocrx_word' id='word_1_4' title='bbox 1072 150 1130 179; x_wconf 79' lang='lat' dir='ltr'><strong>AF</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1160 146 1282 177; x_wconf 76' lang='lat' dir='ltr'><strong>ROSA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1313 141 1593 174; x_wconf 66' lang='lat' dir='ltr'><strong>AFZELIANA.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1633 129 1683 167; x_wconf 78' lang='lat'><strong>37</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 60 221 1800 3068">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 60 221 1800 3068">
+     <span class='ocr_line' id='line_1_2' title="bbox 60 221 1800 3068; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 60 221 1800 3068; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 691 3071 1185 3109">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 691 3071 1185 3109">
+     <span class='ocr_line' id='line_1_3' title="bbox 691 3071 1185 3109; baseline -0.016 -1"><span class='ocrx_word' id='word_1_9' title='bbox 691 3077 775 3109; x_wconf 82' lang='lat' dir='ltr'>Bild</span> <span class='ocrx_word' id='word_1_10' title='bbox 804 3076 852 3107; x_wconf 89' lang='grc'><strong>19.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 901 3074 972 3106; x_wconf 82' lang='lat' dir='ltr'>Glf.</span> <span class='ocrx_word' id='word_1_12' title='bbox 998 3071 1185 3103; x_wconf 73' lang='lat' dir='ltr'>vacillans.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani10kung_0297.png"; bbox 0 0 1931 3266; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1129 2860 1655 2895">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1129 2860 1655 2895">
+     <span class='ocr_line' id='line_1_1' title="bbox 1129 2860 1655 2895; baseline -0.006 -8"><span class='ocrx_word' id='word_1_1' title='bbox 1129 2862 1321 2895; x_wconf 52' lang='lat' dir='ltr'>‹leda-squifls</span> <span class='ocrx_word' id='word_1_2' title='bbox 1342 2861 1421 2886; x_wconf 62' lang='lat' dir='ltr'>(tran.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1444 2860 1528 2888; x_wconf 25' lang='grc' dir='ltr'>,ΜΒΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1551 2861 1655 2886; x_wconf 68' lang='lat' dir='ltr'>sunm,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 212 408 1620 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 212 408 1620 2684">
+     <span class='ocr_line' id='line_1_2' title="bbox 212 408 1620 2684; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 212 408 1620 2684; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1513 341 1646 376">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1513 341 1646 376">
+     <span class='ocr_line' id='line_1_3' title="bbox 1513 341 1646 376; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 1513 341 1586 376; x_wconf 81' lang='lat' dir='ltr'><strong>Taf.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1618 343 1646 376; x_wconf 87' lang='lat'>1.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

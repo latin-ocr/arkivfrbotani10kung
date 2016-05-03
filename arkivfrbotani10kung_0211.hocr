@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani10kung_0211.png"; bbox 0 0 1904 3212; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1571 97 1729 133">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1571 97 1729 133">
+     <span class='ocr_line' id='line_1_1' title="bbox 1571 97 1729 133; baseline -0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1571 97 1663 133; x_wconf 66' lang='lat' dir='ltr'>Tan.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1694 97 1729 131; x_wconf 80' lang='lat'>2.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 246 1710 2836">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 246 1710 2836">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 246 1710 2836; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 0 246 1710 2836; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1287 2960 1734 2988">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1287 2960 1734 2988">
+     <span class='ocr_line' id='line_1_3' title="bbox 1287 2960 1734 2988; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 1287 2960 1448 2988; x_wconf 53' lang='lat' dir='ltr'>[mensumn</span> <span class='ocrx_word' id='word_1_5' title='bbox 1468 2960 1535 2987; x_wconf 55' lang='lat' dir='ltr'>Grai.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1559 2960 1635 2986; x_wconf 41' lang='lat' dir='ltr'>Ast&amp;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1659 2961 1734 2986; x_wconf 45' lang='lat' dir='ltr'>§tw-1:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 17 3013 959 3061">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 17 3013 959 3061">
+     <span class='ocr_line' id='line_1_4' title="bbox 17 3013 959 3061; baseline 0.003 -16"><span class='ocrx_word' id='word_1_8' title='bbox 17 3013 223 3049; x_wconf 72' lang='lat' dir='ltr'>Remesiana</span> <span class='ocrx_word' id='word_1_9' title='bbox 252 3014 377 3049; x_wconf 72' lang='lat' dir='ltr'>Matss.</span> <span class='ocrx_word' id='word_1_10' title='bbox 397 3015 481 3049; x_wconf 25' lang='lat' dir='ltr'>*C</span> <span class='ocrx_word' id='word_1_11' title='bbox 509 3026 579 3049; x_wconf 75' lang='lat' dir='ltr'>var.</span> <span class='ocrx_word' id='word_1_12' title='bbox 608 3016 786 3061; x_wconf 63' lang='lat' dir='ltr'>cyclimns</span> <span class='ocrx_word' id='word_1_13' title='bbox 815 3016 959 3059; x_wconf 62' lang='lat' dir='ltr'><strong>Almqu.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

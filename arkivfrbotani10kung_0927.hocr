@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani10kung_0927.png"; bbox 0 0 1941 3255; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1611 170 1774 214">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1611 170 1774 214">
+     <span class='ocr_line' id='line_1_1' title="bbox 1611 170 1774 214; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 1611 170 1702 214; x_wconf 75' lang='lat' dir='ltr'><strong>Taf.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1745 172 1774 213; x_wconf 92' lang='lat'>1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 174 349 1692 2865">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 174 349 1692 2865">
+     <span class='ocr_line' id='line_1_2' title="bbox 174 349 1692 2865; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 174 349 1692 2865; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 23 2911 1718 3017">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 23 2911 1718 3017">
+     <span class='ocr_line' id='line_1_3' title="bbox 23 2911 1718 2958; baseline -0.002 -10"><span class='ocrx_word' id='word_1_4' title='bbox 23 2913 60 2948; x_wconf 85' lang='lat'>3:</span> <span class='ocrx_word' id='word_1_5' title='bbox 88 2914 335 2958; x_wconf 82' lang='lat' dir='ltr'>Andropogon</span> <span class='ocrx_word' id='word_1_6' title='bbox 364 2914 523 2947; x_wconf 75' lang='lat' dir='ltr'>sulcatus</span> <span class='ocrx_word' id='word_1_7' title='bbox 551 2913 687 2946; x_wconf 73' lang='lat' dir='ltr'>Ekman</span> <span class='ocrx_word' id='word_1_8' title='bbox 716 2923 747 2946; x_wconf 81' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_9' title='bbox 777 2923 828 2956; x_wconf 75' lang='lat' dir='ltr'>sp,</span> <span class='ocrx_word' id='word_1_10' title='bbox 887 2914 923 2946; x_wconf 76' lang='lat'>4:</span> <span class='ocrx_word' id='word_1_11' title='bbox 952 2913 1205 2957; x_wconf 72' lang='lat' dir='ltr'>Arthropogon</span> <span class='ocrx_word' id='word_1_12' title='bbox 1234 2913 1410 2946; x_wconf 79' lang='lat' dir='ltr'>xcmchne</span> <span class='ocrx_word' id='word_1_13' title='bbox 1442 2911 1577 2946; x_wconf 77' lang='lat' dir='ltr'>Ekman</span> <span class='ocrx_word' id='word_1_14' title='bbox 1606 2922 1638 2945; x_wconf 85' lang='lat'>11.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1667 2922 1718 2956; x_wconf 78' lang='lat' dir='ltr'>sp.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 23 2972 754 3017; baseline -0.003 -10"><span class='ocrx_word' id='word_1_16' title='bbox 23 2972 59 3007; x_wconf 85' lang='lat'>6:</span> <span class='ocrx_word' id='word_1_17' title='bbox 87 2972 279 3016; x_wconf 74' lang='lat' dir='ltr'>Paspalum</span> <span class='ocrx_word' id='word_1_18' title='bbox 310 2974 444 3017; x_wconf 84' lang='lat' dir='ltr'>pictum</span> <span class='ocrx_word' id='word_1_19' title='bbox 473 2972 611 3006; x_wconf 74' lang='lat' dir='ltr'>Ekman</span> <span class='ocrx_word' id='word_1_20' title='bbox 640 2982 672 3006; x_wconf 89' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_21' title='bbox 701 2982 754 3016; x_wconf 76' lang='lat' dir='ltr'>sp.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
